@@ -143,8 +143,6 @@ int main(){
 	USART1_sentstr(str);
 	
 	while(1){
-		USART1_sentstr(str);
-		for(int i =0; i <10000; i++);
 		//Приняли символ?
 		if(RX_Flag){
 			//Сбросили флаг
