@@ -1,0 +1,19 @@
+Dependencies for Project 'Template', Target 'Target 1': (DO NOT MODIFY !)
+F (.\StartUp\startup_stm32f103xb.s)(0x5D1623CA)(--cpu Cortex-M3 -g --apcs=interwork -I .\CMSIS\inc -I .\Code\inc-I.\RTE\_Target_1-ID:\P\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\P\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f103xb.lst --xref -o .\objects\startup_stm32f103xb.o --depend .\objects\startup_stm32f103xb.d)
+F (.\Code\src\main.c)(0x5DAA00D5)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\inc -I .\Code\inc-I.\RTE\_Target_1-ID:\P\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\P\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\CMSIS\inc\stm32f103xb.h)(0x5D1623CA)
+I (.\CMSIS\inc\core_cm3.h)(0x5D1623CA)
+I (D:\P\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (.\CMSIS\inc\cmsis_version.h)(0x5D1623CA)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5D1623CA)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5D1623CA)
+I (.\CMSIS\inc\system_stm32f1xx.h)(0x5D1623CA)
+F (.\CMSIS\src\system_stm32f1xx.c)(0x5D1623CA)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\inc -I .\Code\inc-I.\RTE\_Target_1-ID:\P\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\P\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_MD-o .\objects\system_stm32f1xx.o --omf_browse .\objects\system_stm32f1xx.crf --depend .\objects\system_stm32f1xx.d)
+I (.\CMSIS\inc\stm32f1xx.h)(0x5DA8B1EB)
+I (.\CMSIS\inc\stm32f103xb.h)(0x5D1623CA)
+I (.\CMSIS\inc\core_cm3.h)(0x5D1623CA)
+I (D:\P\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (.\CMSIS\inc\cmsis_version.h)(0x5D1623CA)
+I (.\CMSIS\inc\cmsis_compiler.h)(0x5D1623CA)
+I (.\CMSIS\inc\cmsis_armcc.h)(0x5D1623CA)
+I (.\CMSIS\inc\system_stm32f1xx.h)(0x5D1623CA)
