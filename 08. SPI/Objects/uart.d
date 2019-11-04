@@ -1,0 +1,9 @@
+.\objects\uart.o: Code\src\UART.c
+.\objects\uart.o: .\Code\inc\UART.h
+.\objects\uart.o: .\CMSIS\inc\stm32f103xb.h
+.\objects\uart.o: .\CMSIS\inc\core_cm3.h
+.\objects\uart.o: D:\P\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uart.o: .\CMSIS\inc\cmsis_version.h
+.\objects\uart.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\uart.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\uart.o: .\CMSIS\inc\system_stm32f1xx.h
